@@ -1,8 +1,5 @@
 # Potato Leaf Disease Classification
 
-##### Profile Visits : 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.Potato-Leaf-Disease-Classification&left_color=lightgrey&right_color=brightgreen&left_text=visitors) 
-
 <p align="center">
   <img class="center" src ="https://thepracticalplanter.com/wp-content/uploads/2021/09/IS-Potato-Plant.jpg" alt="Drawing" style="width: 1400px; height: 600px">
 </p>
@@ -11,7 +8,6 @@
 
 <b>Heroku App : https://potato-leaf-disease-detection.herokuapp.com/</b><br>
 <b>Dataset Source : https://www.kaggle.com/arjuntejaswi/plant-village</b><br>
-<b>Article Link : https://www.analyticsvidhya.com/blog/2021/12/end-to-end-potato-leaf-disease-prediction-project-a-complete-guide/</b>
 
 <b>Folder Structure : </b>
 ```
@@ -64,15 +60,8 @@
 * <b>Actual Class : </b>The actual output.
 * <b>Confidence : </b>How confident our model is.
  
-https://user-images.githubusercontent.com/63307564/145527457-cd9f8844-fe5d-47d2-ba18-759bdc667489.mp4
   
 <p align="center">
   <img class="center" src ="/main/sample/potato.png" alt="Drawing" style="width: 1400px; height: 800px">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
-</p> 
-
-<!-- © 2021 Ronil Patil<br>
-[![Website](https://img.shields.io/badge/Made%20with-%E2%9D%A4-important?style=for-the-badge&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/) -->
