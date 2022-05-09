@@ -1,13 +1,7 @@
 # -*- coding: utf-8 -*-
 
 #!/usr/bin/env python
-__author__ = "Ronil Patil"
-__license__ = "Feel free to copy."
-
 """
-Created on Mon Nov 15 21:11:06 2021
-
-@author : Ronil Patil
 Dataset from : https://www.kaggle.com/arjuntejaswi/plant-village
 """
 
